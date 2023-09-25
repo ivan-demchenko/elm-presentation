@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "repl": "elm repl",
-    "reactor": "elm reactor",
+    "start": "elm-live ./src/Main.elm -- --debug",
     "postinstall": "elm-tooling install"
   },
   "author": "Ivan Demchenko (raqy.style@gmail.com)",
   "license": "LICENSE",
   "devDependencies": {
+    "elm-live": "^4.0.2",
     "elm-tooling": "^1.14.1"
   }
 }
