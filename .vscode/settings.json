@@ -1,5 +1,7 @@
 {
   "editor.defaultFormatter": "elmTooling.elm-ls-vscode",
   "editor.formatOnPaste": true,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "editor.fontSize": 17,
+  "terminal.integrated.fontSize": 16
 }
