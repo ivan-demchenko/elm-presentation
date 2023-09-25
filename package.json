@@ -1,0 +1,16 @@
+{
+  "name": "elm-presentation",
+  "version": "1.0.0",
+  "description": "A demo repo for Elm presentation",
+  "main": "index.js",
+  "scripts": {
+    "repl": "elm repl",
+    "reactor": "elm reactor",
+    "postinstall": "elm-tooling install"
+  },
+  "author": "Ivan Demchenko (raqy.style@gmail.com)",
+  "license": "LICENSE",
+  "devDependencies": {
+    "elm-tooling": "^1.14.1"
+  }
+}

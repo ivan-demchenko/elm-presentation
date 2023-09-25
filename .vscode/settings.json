@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": "elmTooling.elm-ls-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true
+}
